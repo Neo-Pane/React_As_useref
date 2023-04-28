@@ -20,8 +20,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "deploy": "npm run deploy",
     "start": "react-scripts start",
+    "deploy": "npm run deploy",
     "predeploy": "npm run build",
     "build": "react-scripts build",
     "test": "react-scripts test",
